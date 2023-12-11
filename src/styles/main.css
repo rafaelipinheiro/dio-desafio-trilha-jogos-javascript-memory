@@ -78,7 +78,7 @@ h2 {
     transform: rotateY(0deg);
     transition: 0.25s;  
     backface-visibility: hidden;  
-    opacity: 0.85; /*remover depois*/
+    opacity: 1;
 }
 
 .item.boxOpen {
